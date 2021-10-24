@@ -1,4 +1,4 @@
-# test_app
+# Test App
 
 The application is developed for test purposes.
 It shows the list of the job using recycler view, data binding and view model.
